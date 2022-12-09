@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.4" height="28.4" viewBox="0 0 28.4 28.4">
+  <g id="map" transform="translate(-684 -252)">
+    <g id="map-2" data-name="map" transform="translate(684 252)">
+      <path id="Vector" d="M0,5.256V16.77c0,2.248,1.6,3.171,3.538,2.059l2.781-1.586a2.641,2.641,0,0,1,2.236-.059L14.768,20.3A2.684,2.684,0,0,0,17,20.237L22.128,17.3a2.65,2.65,0,0,0,1.2-2.059V3.73c0-2.248-1.6-3.171-3.538-2.059L17,3.257a2.641,2.641,0,0,1-2.236.059L8.555.215A2.684,2.684,0,0,0,6.319.275L1.2,3.209A2.616,2.616,0,0,0,0,5.256Z" transform="translate(2.71 3.95)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0V15.383" transform="translate(10.129 4.733)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" opacity="0.4"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0V15.833" transform="translate(18.614 7.834)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" opacity="0.4"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H28.4V28.4H0Z" transform="translate(28.4 28.4) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

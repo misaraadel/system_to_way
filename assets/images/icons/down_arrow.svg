@@ -1,0 +1,9 @@
+<svg id="arrow-down_bulk_arrow-down" data-name="arrow-down/bulk/arrow-down" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="vuesax_bulk_arrow-down" data-name="vuesax/bulk/arrow-down">
+    <g id="arrow-down">
+      <path id="Vector" d="M33.2,16.6A16.6,16.6,0,1,1,16.6,0,16.6,16.6,0,0,1,33.2,16.6Z" transform="translate(3.401 3.401)" opacity="0.4"/>
+      <path id="Vector-2" data-name="Vector" d="M12.374,7.175a1.283,1.283,0,0,0-1.8,0L7.647,10.1V1.275a1.275,1.275,0,0,0-2.55,0V10.1L2.172,7.175a1.274,1.274,0,1,0-1.8,1.8l5.1,5.1a1.273,1.273,0,0,0,1.8,0l5.1-5.1A1.283,1.283,0,0,0,12.374,7.175Z" transform="translate(13.628 12.774)"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H40V40H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

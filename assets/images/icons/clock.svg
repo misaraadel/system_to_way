@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="clock" transform="translate(-291 -3019)">
+    <g id="clock_bulk" data-name="clock/bulk" transform="translate(291 3019)">
+      <g id="vuesax_bulk_clock" data-name="vuesax/bulk/clock">
+        <g id="clock-2" data-name="clock">
+          <path id="Vector" d="M18.5,9.25A9.25,9.25,0,1,1,9.25,0,9.25,9.25,0,0,1,18.5,9.25Z" transform="translate(1.75 1.75)" fill="#199ebd" opacity="0.4"/>
+          <path id="Vector-2" data-name="Vector" d="M4.217,8.024a.586.586,0,0,1-.332-.1L1.172,6.309A2.581,2.581,0,0,1,0,4.244V.656A.661.661,0,0,1,.656,0a.661.661,0,0,1,.656.656V4.244a1.293,1.293,0,0,0,.534.936L4.559,6.8a.655.655,0,0,1,.227.9A.674.674,0,0,1,4.217,8.024Z" transform="translate(10.12 6.371)" fill="#199ebd"/>
+          <path id="Vector-3" data-name="Vector" d="M0,0H22V22H0Z" fill="none" opacity="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
